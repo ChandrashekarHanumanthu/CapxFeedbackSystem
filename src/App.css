@@ -1,0 +1,42 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.app-header {
+  text-align: center;
+  color: #4a90e2;
+}
+
+.app-nav {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.app-nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.app-nav li {
+  display: inline;
+  margin: 0 15px;
+}
+
+.app-nav a {
+  text-decoration: none;
+  color: #4a90e2;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.app-nav a:hover {
+  color: #357abd;
+}
+
+main {
+  margin-top: 40px;
+}
